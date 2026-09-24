@@ -1,3 +1,9 @@
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+
 def main():
     print("Hello from pranav-langchain!")
 
